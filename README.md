@@ -3,7 +3,7 @@ I'm Michael Webb, more commonly known as Byte of Melon/TheRandomMelon online. I'
 
 🎵 [**OpenTurntable**](https://github.com/TheRandomMelon/OpenTurntable) - A (hopefully good) open source, cross-platform music player. Made with [Wails](https://wails.io) and [Nuxt](https://nuxt.com).
 
-🎮 [**GameByte**](https://github.com/ByteOfMelon/GameByte) - A WIP research Game Boy emulator made in C++ with SDL3. It's pretty buggy and only plays Tetris, but I still find it cool!
+🎮 [**GameByte**](https://github.com/ByteOfMelon/GameByte) - A WIP research Game Boy emulator made in C++ with SDL3. It's still quite inaccurate, but I still find it cool! I wrote a [whole blog post about it](https://byteofmelon.com/blog/2026/making-of-gamebyte) if you're interested.
 
 🍦 **Vanillo** - Video made simple. - Not a public repo, but something I'm working on -> [Join the Discord](https://discord.vanillo.tv) or [Follow on Twitter](https://twitter.com/VanilloPR)
 
