@@ -12,7 +12,7 @@ I'm Michael Webb, more commonly known as Byte of Melon/TheRandomMelon online. I'
 ### 🔗 Links
 🌐 **Website** [byteofmelon.com](https://byteofmelon.com)
 
-🐦 **Twitter** [@michaelwebbtrm](https://twitter.com/michaelwebbtrm)
+🐦 **Twitter** [@byteofmelon](https://twitter.com/byteofmelon)
 
 📹 **YouTube** [/byteofmelon](https://youtube.com/@byteofmelon)
 
